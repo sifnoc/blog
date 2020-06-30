@@ -1,0 +1,12 @@
+{
+  "name": "sifnoc.blog",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": "https://github.com/sifnoc/blog.git",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
